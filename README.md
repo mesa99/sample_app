@@ -7,7 +7,7 @@ the needed gems:
 ```
 $ bundle install --without production
 
-next, migrate the database
+next, migrate the database:
 ```
 rails db:migrate
 
